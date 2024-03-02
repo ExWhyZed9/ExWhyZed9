@@ -7,6 +7,8 @@ I'm passionate about coding and enjoy working with various programming languages
 
 Thanks for stopping by and feel free to connect with me on GitHub!
 
+<img src="https://komarev.com/ghpvc/?username=ExWhyZed9&style=flat" alt="ExWhyZed9" /><br>
+
 ### 🌐 You can reach me out on: ###
 <p>
   <a href="https://t.me/ExWhyZed9"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=black" height=28></a>
